@@ -3,5 +3,5 @@ An iOS application showing how to send push notification using Firebase Cloud Me
 
 **Here is the screenshot:**
 
-<img src="screenshot/fcm.png" width="350" height="600">
+<img src="screenshot/fcm.PNG" width="350" height="600">
 
